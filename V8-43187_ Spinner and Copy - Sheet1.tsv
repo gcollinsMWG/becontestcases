@@ -1,0 +1,24 @@
+			
+Saved Card		Tested	
+	Use Store 1014	x	https://storefront.mi9.qat.v8.commerce.mi9cloud.com/sm/pickup/rsid/1014/
+	Add items to card	x	
+	Proceed through Checkout	x	
+	Select Pay By Card	x	
+	Select a previousy saved card	x	
+	Place Order	x	
+	Spinner and message displyed	x	
+	Order confirmation page is displayed	x	
+			
+			
+New Card			
+	Use Store 1014	x	https://storefront.mi9.qat.v8.commerce.mi9cloud.com/sm/pickup/rsid/1014/
+	Add items to card	x	
+	Proceed through Checkout	x	
+	Select Pay By Card	x	
+	Select a Add A New Card	x	
+	User is redirected to Opayo HPP	x	
+	Enter new card details	x	https://mi9retail.atlassian.net/wiki/spaces/PG/pages/2964357151/Opayo+Test+Cards
+	Reach 3DS challege Page	x	
+	Place Order	x	
+	Spinner and message displyed	x	
+	Order confirmation page is displayed	x	
